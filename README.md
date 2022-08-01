@@ -6,4 +6,4 @@ Trabalharemos com muitos conceitos que colocarão à prova os seus conhecimentos
 
 ## Dia 1
 Criamos um repositório para o projeto, e um README.md para esse repositório.
-Como extra, também criamos e personalizamos o README.md do nosso perfil GitHub.
+Como extra, também criamos e personalizamos o README.md do nosso perfil GitHub, usando o site https://www.profileme.dev/ como base.
