@@ -11,3 +11,7 @@ Como extra, também criamos e personalizamos o README.md do nosso perfil GitHub,
 ## Dia 2
 Adicionamos manualmente arquivos de HTML e CSS, assim como uma pasta de imagens.
 Também conversamos sobre Temas fofos para o VSCodes e sobre o uso de windows para pessoas prorgamadoras
+
+## Dia 3
+Aprendemos a clonar um repositório, pelo VScode, olha que legal!
+
