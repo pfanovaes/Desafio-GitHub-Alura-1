@@ -15,3 +15,5 @@ Também conversamos sobre Temas fofos para o VSCodes e sobre o uso de windows pa
 ## Dia 3
 Aprendemos a clonar um repositório, pelo VScode, olha que legal!
 
+## Dia 4
+Atualizamos o site, adicionando novos filmes no index.html e mudando cores no style.css
